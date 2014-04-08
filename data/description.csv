@@ -3,3 +3,7 @@ label,sublabel,description,styles,bgcolor
 カン,,,img/shigen02.svg,#77ae1f
 もえるごみ,,,img/moyasu02.svg,#ea3b13
 びん,,,img/bin02.svg,#2dc7aa
+古紙,,,img/shigen02.svg,#08b925
+ペットボトル,,,img/shigen02.svg,#00b7c0
+その他プラスチック,,,img/moyasanai02.svg,#685ecf
+（特別）粗大ゴミ,,,img/moyasanai02.svg,#9263d3
